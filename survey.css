@@ -1,0 +1,99 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+
+#header {
+	background: linear-gradient(90deg, rgba(200,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 6px;
+    color: white;
+    letter-spacing: 0.19em;
+    position: sticky;
+    box-shadow: 0 10px 20px rgba(2,2,0,0.19), 0 6px 6px rgba(0,0,0,0.1);
+  }
+  		#description {
+  color: black;
+  font-family: 'Cinzel', serif;
+}
+blockquote {
+  background-color: hsla(240,20%,90%,0.3);
+  border-radius: 40px;
+}
+
+#survey-form {
+
+  background: linear-gradient(60deg, rgba(2,0,16,0.4) 10%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+  border-radius: 25px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  color: white;
+  font-family: 'Cinzel', serif;
+}
+.form-control {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+
+  background-color: Ghostwhite;
+  border-radius: 24px;
+  color: black;
+ 
+}
+.drop-control {
+  width: 70%;
+  height: 3em;
+  padding: 0.4em 0.75em;
+  background-color: Ghostwhite;
+  border-radius: 3px;
+  font-family: 'Cinzel', serif;
+
+
+
+}
+.input-radio {
+  margin-right: 0.625em;
+  margin-top: -0.1em;
+  min-height: 1.5em;
+  min-width: 1.5em;
+}
+.radio-text {
+  width: 70%;
+  color: black;
+  font-weight: bolder;
+  max-width: 100%;
+}
+.checkbox {
+  margin-right: 0.625em;
+  margin-top: -0.1em;
+ 
+  min-width: 1.5em;
+
+
+}
+.check-text {
+  width: 70%;
+  display: flex;
+  font-weight: bolder;
+  max-width: 100%;
+}
+.comment {
+  border-style: outset;
+  border-radius: 24px;
+  color: black;
+  font-family: 'Cinzel', serif;
+  width: 80%;
+  padding: 1em;
+}
+
+#dropdown {
+  width: 73%;
+}
+
+.footer {
+  display: flex;
+  background-color: rgba(2, 20, 210, 0.2);
+  margin-top: 0.3em;
+  font-weight: 800;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  align-items: flex-end;
+
+}
