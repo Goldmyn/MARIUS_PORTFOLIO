@@ -1,7 +1,7 @@
 
 
     @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
-    @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+    
 
     .bgimage {
     height:100vh;
@@ -12,11 +12,11 @@
 /* text css above my image*/
 .my_title {
     font-size: 3rem;
-    font-family: 'Poppins', serif;
+    font-family: 'Cinzel', serif;
 }
 .my_descrip {
     font-size: 1rem;
-    font-family: 'Poppins', serif;
+    font-family: 'Cinzel', serif;
 }
 .my-text {
     text-align: center;
@@ -26,13 +26,13 @@
     transform: translate(-50%, -50%);
     color: white;
     background-color: rgba(12, 10, 20, 0.7);
-    font-family:'Poppins', serif;
+    font-family: 'Cinzel', serif;
 }
 
 /*p tag texts*/
 
 .txt {
-  font-family: 'Poppins', serif;
+  font-family: 'Cinzel', serif;
 }
 
 .flt {

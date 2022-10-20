@@ -12,11 +12,11 @@
 /* text css above my image*/
 .my_title {
     font-size: 3rem;
-    font-family: 'Poppins', serif;
+    font-family: 'Poppins', ;
 }
 .my_descrip {
     font-size: 1rem;
-    font-family: 'Poppins', serif;
+    font-family: 'Cinzel', serif;
 }
 .my-text {
     text-align: center;
@@ -26,13 +26,13 @@
     transform: translate(-50%, -50%);
     color: white;
     background-color: rgba(12, 10, 20, 0.7);
-    font-family:'Poppins', serif;
+    font-family: 'Cinzel', serif;
 }
 
 /*p tag texts*/
 
 .txt {
-  font-family: 'Poppins', serif;
+  font-family: 'Cinzel', serif;
 }
 
 .flt {
